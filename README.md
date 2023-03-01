@@ -46,7 +46,7 @@ The simplest way to aquire these on MacOS is via [Homebrew](http://brew.sh/). In
 Set up a database in MySQL called `blab` with a user of `blab` and password `z2^E6J4$;u;d`
  
 ## Run
-
+awef
 Deploy the build output war file to Tomcat.
 
 Open `/reset` in your browser and follow the instructions to prep the database
